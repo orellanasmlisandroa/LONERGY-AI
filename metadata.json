@@ -1,0 +1,8 @@
+{
+  "name": "LONERGY AI",
+  "description": "Master Your Cellular Destiny. Advanced longevity platform with multilingual AI voice intelligence.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
